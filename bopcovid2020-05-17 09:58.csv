@@ -1,0 +1,90 @@
+inmates_positive,staff_positive,inmate_deaths,staff_deaths,facility,city,state
+Lompoc FCI,881,14,0,0,43,3,lompoc,CA
+Fort Worth FMC,304,6,8,0,331,0,fort worth,TX
+Forrest City Low FCI,252,1,0,0,48,2,forrest city,AR
+Lexington FMC,198,6,3,0,28,0,lexington,KY
+Terminal Island FCI,121,15,8,0,571,0,san pedro,CA
+Elkton FCI,115,12,9,0,60,40,lisbon,OH
+Lompoc USP,57,16,2,0,102,6,lompoc,CA
+Butner Medium I FCI,56,14,8,0,168,12,butner,NC
+"GEO Reentry, Inc. (RRC)",35,0,0,0,2,0,leavenworth,KS
+Butner Low FCI,30,4,0,0,38,4,butner,NC
+Danbury FCI,30,5,1,0,48,55,danbury,CT
+Yazoo City Low FCI,26,6,0,0,75,2,yazoo city,MS
+Fort Dix FCI,22,1,0,0,27,4,joint base mdl,NJ
+Hampshire House (RRC),20,0,0,0,0,0,manchester,NH
+Chicago MCC,17,14,0,0,123,16,chicago,IL
+"Dismas Charities, Inc. (RRC)",14,0,0,0,0,0,corpus christi,TX
+Yazoo City USP,13,12,1,0,0,0,yazoo city,MS
+Devens FMC,10,2,1,0,1,0,ayer,MA
+Milan FCI,9,11,3,0,61,45,milan,MI
+"Volunteers of America, Inc. (Minnesota) (RRC)",9,0,0,0,9,0,minneapolis,MN
+Oklahoma City FTC,8,0,1,0,17,0,oklahoma city,OK
+"Volunteers of America Texas, Inc. (RRC)",8,0,0,0,0,0,hutchins,TX
+"Community Resources for Justice, Inc. (RRC)",7,0,0,0,0,0,boston,MA
+Gilmer FCI,5,0,0,0,1,0,glenville,WV
+Butner FMC,4,7,0,0,1,2,butner,NC
+Bennettsville FCI,3,2,0,0,1,0,bennettsville,SC
+"Kintock Group, The (RRC)",3,0,0,0,0,0,philadelphia,PA
+"Kintock Group, The (RRC)",3,0,0,0,0,0,newark,NJ
+Oakdale I FCI,3,17,7,0,87,1,oakdale,LA
+"GEO Reentry of Alaska, Inc. (RRC)",2,0,0,0,0,0,oakland,CA
+Aliceville FCI,1,6,0,0,9,3,aliceville,AL
+Atlanta USP,1,6,0,0,14,3,atlanta,GA
+"Behavioral Systems Southwest, Inc. (RRC)",1,0,0,0,0,0,los angeles,CA
+"CORE Services Group, Inc. (RRC)",1,0,0,0,3,0,brooklyn,NY
+Carswell FMC,1,0,1,0,0,0,fort worth,TX
+Central Arizona Florence Correctional Complex (RRC),1,0,0,0,0,0,florence,AZ
+Central Territorial of the Salvation Army; DBA Salvation Army Correctional Ser (RRC),1,0,0,0,8,0,chicago,IL
+"Cherry Street Services, Inc. (RRC)",1,0,0,0,3,0,grand rapids,MI
+Coleman II USP,1,0,0,0,0,1,sumterville,FL
+Coleman Low FCI,1,1,0,0,0,1,sumterville,FL
+"Keeton Corrections, Inc. (Birmingham) (RRC)",1,0,0,0,0,0,birmingham,AL
+Pioneer Human Services; DBA:  Pioneer Industries (RRC),1,0,0,0,1,0,seattle,WA
+Volunteers of America (RRC),1,0,0,0,2,0,metairie,LA
+"Volunteers of America of Western New York, Inc. (RRC)",1,0,0,0,0,0,rochester,NY
+Yazoo City Medium FCI,1,6,0,0,6,2,yazoo city,MS
+Allenwood Medium FCI,0,0,0,0,0,1,white deer,PA
+Allenwood USP,0,0,0,0,0,1,allenwood,PA
+Beaumont Low FCI,0,1,0,0,0,0,beaumont,TX
+Beaumont Medium FCI,0,3,0,0,0,0,beaumont,TX
+"Behavioral Systems Southwest, Inc. (RRC)",0,0,1,0,0,0,phoenix,AZ
+Brooklyn MDC,0,19,0,0,5,20,brooklyn,NY
+Canaan USP,0,0,0,0,0,4,waymart,PA
+Central Office HQ,0,0,0,0,0,2,washington,DC
+"Cherry Street Services, Inc. (RRC)",0,0,0,0,1,0,detroit,MI
+Coleman I USP,0,1,0,0,0,1,sumterville,FL
+Coleman Medium FCI,0,1,0,0,0,0,sumterville,FL
+Community Education Centers; DBA:  CEC (RRC),0,0,0,0,2,0,philadelphia,PA
+Cumberland FCI,0,2,0,0,6,0,cumberland,MD
+Dismas House of St. Louis (RRC),0,0,0,0,2,0,saint louis,MO
+El Reno FCI,0,1,0,0,0,0,el reno,OK
+Englewood FCI,0,0,0,0,0,1,littleton,CO
+Fairton FCI,0,1,0,0,0,1,fairton,NJ
+Forrest City Medium FCI,0,3,0,0,5,3,forrest city,AR
+"GEO Care, Inc. (RRC)",0,0,1,0,0,0,bronx,NY
+Grand Prairie,0,1,0,0,0,0,grand prairie,TX
+La Tuna FCI,0,1,0,0,0,1,anthony,TX
+Leavenworth USP,0,0,0,0,0,1,leavenworth,KS
+Lewisburg USP,0,1,0,0,0,0,lewisburg,PA
+Los Angeles MDC,0,1,0,0,0,0,los angeles,CA
+McCreary USP,0,1,0,0,1,0,pine knot,KY
+McDowell FCI,0,1,0,0,0,0,welch,WV
+Memphis FCI,0,1,0,0,0,0,memphis,TN
+Miami FDC,0,16,0,0,0,2,miami,FL
+Montgomery FPC,0,1,0,0,0,0,montgomery,AL
+New York MCC,0,22,0,0,5,23,new york,NY
+Oakdale II FCI,0,8,1,0,6,0,oakdale,LA
+Otisville FCI,0,1,0,0,13,14,otisville,NY
+Petersburg Low FCI,0,1,0,0,0,0,hopewell,VA
+Philadelphia FDC,0,2,0,0,0,1,philadelphia,PA
+Ray Brook FCI,0,6,0,0,11,3,ray brook,NY
+Rochester FMC,0,1,0,0,0,0,rochester,MN
+Seagoville FCI,0,0,0,0,1,0,seagoville,TX
+"Southeast Missouri Behavioral Health, Inc.; DBA:  SEMO CTC (RRC)",0,0,0,0,1,0,farmington,MO
+Southeast RO,0,1,0,0,0,0,atlanta,GA
+Talladega FCI,0,0,0,0,0,5,talladega,AL
+Tallahassee FCI,0,1,0,0,0,0,tallahassee,FL
+Tucson USP,0,0,0,0,0,1,tucson,AZ
+Volunteers of America of Greater Ohio (RRC),0,0,0,0,1,0,toledo,OH
+Watkinson House (RRC),0,0,0,0,2,0,hartford,CT

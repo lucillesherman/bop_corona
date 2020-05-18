@@ -1,0 +1,94 @@
+inmates_positive,staff_positive,inmate_deaths,staff_deaths,facility,city,state
+Lompoc FCI,882,14,0,0,25,3,lompoc,CA
+Fort Worth FMC,332,4,7,0,304,0,fort worth,TX
+Forrest City Low FCI,246,1,0,0,50,2,forrest city,AR
+Lexington FMC,202,6,1,0,26,0,lexington,KY
+Terminal Island FCI,130,15,8,0,567,0,san pedro,CA
+Elkton FCI,74,12,9,0,48,40,lisbon,OH
+Butner Medium I FCI,62,13,7,0,169,12,butner,NC
+Chicago MCC,49,15,0,0,90,14,chicago,IL
+"GEO Reentry, Inc. (RRC)",38,0,0,0,0,0,leavenworth,KS
+Danbury FCI,31,6,1,0,47,54,danbury,CT
+Fort Dix FCI,27,1,0,0,22,4,joint base mdl,NJ
+Yazoo City Low FCI,26,5,0,0,75,2,yazoo city,MS
+Oklahoma City FTC,25,0,1,0,0,0,oklahoma city,OK
+Butner Low FCI,23,3,0,0,38,4,butner,NC
+Lompoc USP,22,16,2,0,93,6,lompoc,CA
+Hampshire House (RRC),20,0,0,0,0,0,manchester,NH
+"Volunteers of America, Inc. (Minnesota) (RRC)",19,0,0,0,0,0,minneapolis,MN
+"Dismas Charities, Inc. (RRC)",14,0,0,0,0,0,corpus christi,TX
+Yazoo City USP,12,10,1,0,0,0,yazoo city,MS
+Devens FMC,10,2,1,0,1,0,ayer,MA
+Milan FCI,9,11,3,0,61,45,milan,MI
+"Volunteers of America Texas, Inc. (RRC)",8,0,0,0,0,0,hutchins,TX
+"Community Resources for Justice, Inc. (RRC)",7,0,0,0,0,0,boston,MA
+Oakdale I FCI,6,17,7,0,89,1,oakdale,LA
+Butner FMC,5,7,0,0,0,2,butner,NC
+Gilmer FCI,5,0,0,0,0,0,glenville,WV
+Bennettsville FCI,3,2,0,0,1,0,bennettsville,SC
+"Kintock Group, The (RRC)",3,0,0,0,0,0,philadelphia,PA
+"Kintock Group, The (RRC)",3,0,0,0,0,0,newark,NJ
+"Cherry Street Services, Inc. (RRC)",2,0,0,0,2,0,grand rapids,MI
+"GEO Reentry of Alaska, Inc. (RRC)",2,0,0,0,0,0,oakland,CA
+Otero County Prison Facility (RRC),2,0,0,0,0,0,charparral,NM
+Watkinson House (RRC),2,0,0,0,0,0,hartford,CT
+Aliceville FCI,1,4,0,0,9,3,aliceville,AL
+Atlanta USP,1,6,0,0,14,3,atlanta,GA
+"Behavioral Systems Southwest, Inc. (RRC)",1,0,0,0,0,0,los angeles,CA
+"CORE Services Group, Inc. (RRC)",1,0,0,0,3,0,brooklyn,NY
+Carswell FMC,1,0,1,0,0,0,fort worth,TX
+Central Arizona Florence Correctional Complex (RRC),1,0,0,0,0,0,florence,AZ
+Central Territorial of the Salvation Army; DBA Salvation Army Correctional Ser (RRC),1,0,0,0,8,0,chicago,IL
+"Cherry Street Services, Inc. (RRC)",1,0,0,0,0,0,detroit,MI
+Coleman Low FCI,1,1,0,0,0,1,sumterville,FL
+Dismas Charities Inc. (RRC),1,0,0,0,0,0,lexington,KY
+Dismas of Manchester (RRC),1,0,0,0,0,0,manchester,KY
+"GEO Care, LLC (RRC)",1,0,0,0,0,0,sacramento,CA
+JL Santa Rita Jail (RRC),1,0,0,0,0,0,dublin,CA
+"Keeton Corrections, Inc. (Birmingham) (RRC)",1,0,0,0,0,0,birmingham,AL
+Oakdale II FCI,1,8,1,0,6,0,oakdale,LA
+Pioneer Human Services; DBA:  Pioneer Industries (RRC),1,0,0,0,1,0,seattle,WA
+"Southeast Missouri Behavioral Health, Inc.; DBA:  SEMO CTC (RRC)",1,0,0,0,0,0,farmington,MO
+Volunteers of America (RRC),1,0,0,0,3,0,metairie,LA
+Volunteers of America of Greater Ohio (RRC),1,0,0,0,0,0,toledo,OH
+"Volunteers of America of Western New York, Inc. (RRC)",1,0,0,0,0,0,rochester,NY
+Yazoo City Medium FCI,1,6,0,0,6,2,yazoo city,MS
+Allenwood Medium FCI,0,0,0,0,0,1,white deer,PA
+Allenwood USP,0,0,0,0,0,1,allenwood,PA
+Beaumont Low FCI,0,1,0,0,0,0,beaumont,TX
+Beaumont Medium FCI,0,3,0,0,0,0,beaumont,TX
+"Behavioral Systems Southwest, Inc. (RRC)",0,0,1,0,0,0,phoenix,AZ
+Brooklyn MDC,0,19,0,0,5,20,brooklyn,NY
+Canaan USP,0,0,0,0,0,4,waymart,PA
+Central Office HQ,0,0,0,0,0,2,washington,DC
+Coleman I USP,0,1,0,0,0,1,sumterville,FL
+Coleman II USP,0,0,0,0,0,1,sumterville,FL
+Community Education Centers; DBA:  CEC (RRC),0,0,0,0,2,0,philadelphia,PA
+Cumberland FCI,0,2,0,0,6,0,cumberland,MD
+Dismas House of St. Louis (RRC),0,0,0,0,2,0,saint louis,MO
+El Reno FCI,0,1,0,0,0,0,el reno,OK
+Englewood FCI,0,0,0,0,0,1,littleton,CO
+Fairton FCI,0,1,0,0,0,1,fairton,NJ
+Forrest City Medium FCI,0,3,0,0,5,3,forrest city,AR
+"GEO Care, Inc. (RRC)",0,0,1,0,0,0,bronx,NY
+Grand Prairie,0,1,0,0,0,0,grand prairie,TX
+La Tuna FCI,0,1,0,0,0,1,anthony,TX
+Leavenworth USP,0,0,0,0,0,1,leavenworth,KS
+Lewisburg USP,0,1,0,0,0,0,lewisburg,PA
+Los Angeles MDC,0,1,0,0,0,0,los angeles,CA
+McCreary USP,0,1,0,0,1,0,pine knot,KY
+McDowell FCI,0,1,0,0,0,0,welch,WV
+Memphis FCI,0,1,0,0,0,0,memphis,TN
+Miami FDC,0,14,0,0,0,2,miami,FL
+Montgomery FPC,0,1,0,0,0,0,montgomery,AL
+New York MCC,0,21,0,0,5,23,new york,NY
+Otisville FCI,0,1,0,0,13,14,otisville,NY
+Petersburg Low FCI,0,1,0,0,0,0,hopewell,VA
+Philadelphia FDC,0,2,0,0,0,1,philadelphia,PA
+Ray Brook FCI,0,6,0,0,11,3,ray brook,NY
+Rochester FMC,0,1,0,0,0,0,rochester,MN
+Seagoville FCI,0,0,0,0,1,0,seagoville,TX
+Southeast RO,0,1,0,0,0,0,atlanta,GA
+Talladega FCI,0,0,0,0,0,5,talladega,AL
+Tallahassee FCI,0,1,0,0,0,0,tallahassee,FL
+Tucson USP,0,0,0,0,0,1,tucson,AZ

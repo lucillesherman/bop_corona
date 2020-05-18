@@ -1,0 +1,73 @@
+inmates_positive,staff_positive,inmate_deaths,staff_deaths,facility,city,state
+621,15,6,0,Terminal Island FCI,san pedro,CA
+467,1,4,0,Fort Worth FMC,fort worth,TX
+211,13,6,0,Butner Medium I FCI,butner,NC
+113,1,0,0,Forrest City Low FCI,forrest city,AR
+105,23,0,0,Chicago MCC,chicago,IL
+105,49,8,0,Elkton FCI,lisbon,OH
+57,3,0,0,Lexington FMC,lexington,KY
+52,10,0,0,Lompoc FCI,lompoc,CA
+50,4,0,0,Yazoo City Low FCI,yazoo city,MS
+48,17,7,0,Oakdale I FCI,oakdale,LA
+40,3,0,0,Fort Dix FCI,joint base mdl,NJ
+34,15,1,0,Lompoc USP,lompoc,CA
+27,3,0,0,Butner Low FCI,butner,NC
+24,15,1,0,Danbury FCI,danbury,CT
+23,0,1,0,Oklahoma City FTC,oklahoma city,OK
+20,0,0,0,"Volunteers of America, Inc. (Minnesota) (RRC)",minneapolis,MN
+19,0,0,0,"GEO Reentry, Inc. (RRC)",leavenworth,KS
+15,40,3,0,Milan FCI,milan,MI
+7,0,0,0,"Community Resources for Justice, Inc. (RRC)",boston,MA
+6,4,0,0,Aliceville FCI,aliceville,AL
+6,0,0,0,Central Territorial of the Salvation Army; DBA Salvation Army Correctional Ser (RRC),chicago,IL
+6,8,1,0,Yazoo City USP,yazoo city,MS
+5,4,0,0,Butner FMC,butner,NC
+4,6,0,0,Atlanta USP,atlanta,GA
+4,0,0,0,"Volunteers of America Texas, Inc. (RRC)",hutchins,TX
+3,2,0,0,Bennettsville FCI,bennettsville,SC
+3,0,0,0,"Cherry Street Services, Inc. (RRC)",grand rapids,MI
+3,0,0,0,"Kintock Group, The (RRC)",philadelphia,PA
+3,0,0,0,"Kintock Group, The (RRC)",newark,NJ
+2,0,0,0,"GEO Reentry of Alaska, Inc. (RRC)",oakland,CA
+2,8,0,0,Oakdale II FCI,oakdale,LA
+1,0,0,0,"Behavioral Systems Southwest, Inc. (RRC)",los angeles,CA
+1,0,0,0,"CORE Services Group, Inc. (RRC)",brooklyn,NY
+1,0,1,0,Carswell FMC,fort worth,TX
+1,0,0,0,"Cherry Street Services, Inc. (RRC)",detroit,MI
+1,1,0,0,Coleman Low FCI,sumterville,FL
+1,0,0,0,"GEO Care, LLC (RRC)",sacramento,CA
+1,0,0,0,Gilmer FCI,glenville,WV
+1,0,0,0,"Keeton Corrections, Inc. (Birmingham) (RRC)",birmingham,AL
+1,0,0,0,Pioneer Human Services; DBA:  Pioneer Industries (RRC),seattle,WA
+1,0,0,0,"Southeast Missouri Behavioral Health, Inc.; DBA:  SEMO CTC (RRC)",farmington,MO
+1,0,0,0,Volunteers of America (RRC),metairie,LA
+1,0,0,0,Volunteers of America of Greater Ohio (RRC),toledo,OH
+1,0,0,0,"Volunteers of America of Western New York, Inc. (RRC)",rochester,NY
+1,0,0,0,Watkinson House (RRC),hartford,CT
+1,4,0,0,Yazoo City Medium FCI,yazoo city,MS
+0,1,0,0,Beaumont Low FCI,beaumont,TX
+0,3,0,0,Beaumont Medium FCI,beaumont,TX
+0,0,1,0,"Behavioral Systems Southwest, Inc. (RRC)",phoenix,AZ
+0,31,0,0,Brooklyn MDC,brooklyn,NY
+0,1,0,0,Canaan USP,waymart,PA
+0,1,0,0,Coleman I USP,sumterville,FL
+0,2,0,0,Cumberland FCI,cumberland,MD
+0,0,1,0,Devens FMC,ayer,MA
+0,1,0,0,Englewood FCI,littleton,CO
+0,2,0,0,Fairton FCI,fairton,NJ
+0,3,0,0,Forrest City Medium FCI,forrest city,AR
+0,0,1,0,"GEO Care, Inc. (RRC)",bronx,NY
+0,1,0,0,Grand Prairie,grand prairie,TX
+0,1,0,0,La Tuna FCI,anthony,TX
+0,1,0,0,Lewisburg USP,lewisburg,PA
+0,1,0,0,Los Angeles MDC,los angeles,CA
+0,1,0,0,McCreary USP,pine knot,KY
+0,1,0,0,Memphis FCI,memphis,TN
+0,14,0,0,Miami FDC,miami,FL
+0,29,0,0,New York MCC,new york,NY
+0,10,0,0,Otisville FCI,otisville,NY
+0,3,0,0,Philadelphia FDC,philadelphia,PA
+0,6,0,0,Ray Brook FCI,ray brook,NY
+0,1,0,0,Rochester FMC,rochester,MN
+0,1,0,0,Southeast RO,atlanta,GA
+0,1,0,0,Tallahassee FCI,tallahassee,FL
